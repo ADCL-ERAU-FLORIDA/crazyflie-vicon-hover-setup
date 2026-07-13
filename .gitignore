@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+waypoint_data.json
+data.json
+motorRawData.json
+motor_raw_log.json
+cflib_python/vicon_bridge_cpp/live_tracking_bridge
+cache/
+recorded_runs/
